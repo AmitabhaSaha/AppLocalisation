@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  LocalisationDemoApp
+
+  Created by Amitabha Saha on 04/03/20.
+  Copyright © 2020 Amitabha. All rights reserved.
+*/
+
+
+"back_key" = "back_german";
+
+"name_key" = "name_german";
+
+"email_key" = "email_german";
+
+"unkown_key" = "unknown_german";
+
