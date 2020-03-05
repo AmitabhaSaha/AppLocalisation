@@ -14,7 +14,6 @@
 		EB588A0624100E23001DBDA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB588A0524100E23001DBDA9 /* Assets.xcassets */; };
 		EB588A0924100E23001DBDA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB588A0724100E23001DBDA9 /* LaunchScreen.storyboard */; };
 		EB588A1A24101054001DBDA9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = EB588A1C24101054001DBDA9 /* Localizable.strings */; };
-		EBD27B4F2410D1E800FA57A2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EBD27B4E2410D1E700FA57A2 /* README.md */; };
 		EBD27B512410D1F500FA57A2 /* localiastion_ios.mov in Resources */ = {isa = PBXBuildFile; fileRef = EBD27B502410D1F500FA57A2 /* localiastion_ios.mov */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +29,6 @@
 		EB588A1B24101054001DBDA9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		EB588A202410109A001DBDA9 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		EB588A21241010AF001DBDA9 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		EBD27B4E2410D1E700FA57A2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EBD27B502410D1F500FA57A2 /* localiastion_ios.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = localiastion_ios.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,7 +78,6 @@
 		EBD27B522410D20100FA57A2 /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				EBD27B4E2410D1E700FA57A2 /* README.md */,
 				EBD27B502410D1F500FA57A2 /* localiastion_ios.mov */,
 			);
 			path = Documents;
@@ -149,7 +146,6 @@
 				EBD27B512410D1F500FA57A2 /* localiastion_ios.mov in Resources */,
 				EB588A0924100E23001DBDA9 /* LaunchScreen.storyboard in Resources */,
 				EB588A1A24101054001DBDA9 /* Localizable.strings in Resources */,
-				EBD27B4F2410D1E800FA57A2 /* README.md in Resources */,
 				EB588A0624100E23001DBDA9 /* Assets.xcassets in Resources */,
 				EB588A0424100E1F001DBDA9 /* Main.storyboard in Resources */,
 			);
